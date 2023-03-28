@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer and Life Long Learner!<br>🌱 I’m currently Learning MERN Stack at Masai School.<br>🌏 Looking to solve real-world problems..<br>💻 I'm passionate about making creative websites.<br>⚡ Fact: I love to make videos on youtube.<br>💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra 
+I'm a Software Engineer and Life Long Learner!<br>🌱 I’m currently Learning MERN Stack at Masai School.<br>🌏 Looking to solve real-world problems..<br>💻 I'm passionate about making creative websites.<br>🌏 check my work here <a href='https://123rishujha.github.io/'>portfolio</a><br>⚡ Fact: I love to make videos on youtube.<br>💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra 
 Ui, Npm.
 
 
