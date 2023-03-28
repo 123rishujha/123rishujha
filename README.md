@@ -13,15 +13,6 @@
   
 - 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1a5DTB0q4dsLUaWrY86tez4KsmygPIvCt/view?usp=sharing)
   
-
-<h3 align="left">Github Achievements:</h3>
-<p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy"
-          ><img
-            src="https://github-profile-trophy.vercel.app/?username=123rishujha"
-            alt="123rishujha"
-        /></a>
- </p>
  <br/>
 
 ## 🌐 Socials:
