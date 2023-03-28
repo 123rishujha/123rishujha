@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ➺ **Nodejs,Express,React,Redux Data Structures and Algorithms**
 
-- 👨‍💻 Take a look at my projects ➺ [https://123rishujha.github.io/](https://123rishujha.github.io/)
+- 👨‍💻 Take a look at my projects ➺ (https://123rishujha.github.io/)
 
 - 💬 Ask me about ➺ **ReactJS, Nodejs, Express, JavaScript,CSS,HTML and Data Structures and Algorithms**
 
