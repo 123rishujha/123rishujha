@@ -14,7 +14,6 @@
 - 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1a5DTB0q4dsLUaWrY86tez4KsmygPIvCt/view?usp=sharing)
   
  <br/>
- https://123rishujha.github.io/
 
 ## 🌐 Socials:
    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-jha)
