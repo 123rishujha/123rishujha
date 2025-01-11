@@ -11,7 +11,7 @@
 
 - 📫 How to reach me ➺ **jharishu796@gmail.com**
   
-- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1a5DTB0q4dsLUaWrY86tez4KsmygPIvCt/view?usp=sharing)
+- 📝 Here is my resume ➺ [Resume](https://drive.google.com/file/d/1aClcurPLtaoEDSt79N2HFncyG8YSZgjj/view?usp=sharing)
   
  <br/>
 
